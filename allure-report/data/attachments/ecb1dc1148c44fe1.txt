@@ -1,0 +1,99 @@
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)
+Error occurred while clicking link or navigating back: TypeError: Cannot read properties of undefined (reading 'page')
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:84:40
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:357:9
+    at TestInfoImpl._runAndFailOnError (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:183:7)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:353:7
+    at TimeoutRunner.run (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright-core/lib/utils/timeoutRunner.js:49:14)
+    at TimeoutManager.runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/timeoutManager.js:74:7)
+    at TestInfoImpl._runWithTimeout (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/testInfo.js:168:26)
+    at WorkerMain._runTest (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:289:5)
+    at WorkerMain.runTestGroup (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/worker/workerMain.js:213:11)
+    at process.<anonymous> (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/node_modules/playwright/lib/common/process.js:96:22)

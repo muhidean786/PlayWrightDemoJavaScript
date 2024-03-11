@@ -1,0 +1,244 @@
+Error occurred while processing link: elementHandle.textContent: Test ended.
+Call log:
+  - waiting for locator(':scope')
+
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:39:8 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@18',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225276,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225289,
+    error: {
+      message: 'Error: elementHandle.textContent: Test ended.\n' +
+        'Call log:\n' +
+        "  \x1B[2m- waiting for locator(':scope')\x1B[22m\n",
+      stack: 'Error: elementHandle.textContent: Test ended.\n' +
+        'Call log:\n' +
+        "  \x1B[2m- waiting for locator(':scope')\x1B[22m\n" +
+        '\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:39:8'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@22',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225291,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225291,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@23',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225292,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225292,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@24',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225293,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225293,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@25',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225293,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225293,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@26',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225294,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225295,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@27',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225296,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225296,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@28',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225296,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225296,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.textContent: Target page, context or browser has been closed
+    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46) {
+  [Symbol(step)]: {
+    stepId: 'pw:api@29',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js',
+      line: 45,
+      column: 46,
+      function: 'CommonMethod.clickRandomElement'
+    },
+    category: 'pw:api',
+    title: 'elementHandle.textContent',
+    apiName: 'elementHandle.textContent',
+    params: undefined,
+    wallTime: 1710049225297,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710049225297,
+    error: {
+      message: 'Error: elementHandle.textContent: Target page, context or browser has been closed',
+      stack: 'Error: elementHandle.textContent: Target page, context or browser has been closed\n' +
+        '    at CommonMethod.clickRandomElement (/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/PageObjectLibrary/CommonMethod.js:45:46)'
+    }
+  }
+}

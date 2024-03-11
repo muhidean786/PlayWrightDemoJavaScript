@@ -1,0 +1,2 @@
+Executing the following query from DB for Backend Validation
+Select * from Customer table where First name  = 'Muhammad'

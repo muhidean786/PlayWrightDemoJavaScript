@@ -1,0 +1,364 @@
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@11',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499391,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499391,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@12',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499393,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499394,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@13',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499395,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499395,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@14',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499396,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499396,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@15',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499397,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499397,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@16',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499397,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499398,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@17',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499398,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499398,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@18',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499399,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499399,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@19',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499399,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499399,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@20',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499400,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499400,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@21',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499402,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499403,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@22',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499403,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499403,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@23',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499403,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499404,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}
+Error occurred while processing link: elementHandle.getProperty: name: expected string, got undefined
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@24',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 81,
+      column: 42,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'elementHandle.getProperty',
+    apiName: 'elementHandle.getProperty',
+    params: { name: undefined },
+    wallTime: 1710050499404,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710050499404,
+    error: {
+      message: 'Error: elementHandle.getProperty: name: expected string, got undefined',
+      stack: 'Error: elementHandle.getProperty: name: expected string, got undefined\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:81:42'
+    }
+  }
+}

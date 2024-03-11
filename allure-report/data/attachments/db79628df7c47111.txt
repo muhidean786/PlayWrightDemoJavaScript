@@ -1,0 +1,283 @@
+Error occurred while clicking link or navigating back: page.goBack: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - waiting for navigation until "load"
+
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:100:24 {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@28',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 100,
+      column: 24,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goBack',
+    apiName: 'page.goBack',
+    params: { waitUntil: 'load' },
+    wallTime: 1710180329348,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329369,
+    error: {
+      message: 'Error: page.goBack: net::ERR_ABORTED; maybe frame was detached?\n' +
+        'Call log:\n' +
+        '  \x1B[2m- waiting for navigation until "load"\x1B[22m\n',
+      stack: 'Error: page.goBack: net::ERR_ABORTED; maybe frame was detached?\n' +
+        'Call log:\n' +
+        '  \x1B[2m- waiting for navigation until "load"\x1B[22m\n' +
+        '\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:100:24'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@32',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Nokia lumia 1520'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Nokia lumia 1520']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329374,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329376,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@33',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Nexus 6'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Nexus 6']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329378,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329378,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@34',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Samsung galaxy s7'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Samsung galaxy s7']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329379,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329380,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@35',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Iphone 6 32gb'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Iphone 6 32gb']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329380,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329381,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@36',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Sony xperia z5'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Sony xperia z5']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329382,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329383,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@37',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='HTC One M9'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='HTC One M9']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329385,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329386,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@38',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Sony vaio i5'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Sony vaio i5']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329387,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329388,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}
+Error occurred while clicking link or navigating back: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed
+    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@39',
+    location: {
+      file: '/Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js',
+      line: 85,
+      column: 27,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.scrollIntoViewIfNeeded(//a[normalize-space()='Sony vaio i7'])",
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: "//a[normalize-space()='Sony vaio i7']",
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    wallTime: 1710180329389,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1710180329390,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Target page, context or browser has been closed\n' +
+        '    at /Users/muhammadmohinuddin/Documents/My Visual Studio/JavaScriptDemoProject/tests/loginValidation.spec.js:85:27'
+    }
+  }
+}

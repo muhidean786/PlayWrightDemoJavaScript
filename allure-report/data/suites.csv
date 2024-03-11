@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 11 14:21:49 EDT 2024","Mon Mar 11 14:21:54 EDT 2024","5621","chromium","Assertions.spec.js","","","","Assertion Validation @demo",""
+"failed","Mon Mar 11 14:28:49 EDT 2024","Mon Mar 11 14:29:03 EDT 2024","14298","chromium","loginValidation.spec.js","","","","Login ProductlinkClick @Reg",""
+"passed","Mon Mar 11 14:09:08 EDT 2024","Mon Mar 11 14:09:13 EDT 2024","4726","chromium","loginValidation.spec.js","","","","Login Validation @smoke",""
